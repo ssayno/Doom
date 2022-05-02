@@ -229,8 +229,8 @@
   (setq org2blog/wp-blog-alist
         '(("myblog"
            :url "http://www.sayno.work/xmlrpc.php"
-           :username "418215971@qq.com"
-           :password "271xufei."
+           :username ""
+           :password ""
            :default-title "Hello World"
            :default-categories ("org2blog" "Java")
            :tags-as-categories nil))
